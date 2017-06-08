@@ -1,1 +1,2 @@
 # NodeMongo
+npm install
